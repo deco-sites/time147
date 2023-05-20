@@ -1,5 +1,10 @@
 const CampaignTimer = () => {
-  return <div>{JSON.stringify(console.log("ISTO É UMA MENSAGEM"))}</div>;
+  return (
+  <div><span>
+    {JSON.stringify('DEBUG')}
+  </span></div>
+  )
+  ;
 };
 
 export default CampaignTimer;
