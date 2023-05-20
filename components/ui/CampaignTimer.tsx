@@ -30,6 +30,8 @@ const CampaignTimer = () => {
                 Seconds
               </div>
             </div>
+
+            <button className="btn">Button</button>
           </div>
         </div>
       </div>
