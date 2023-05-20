@@ -16,20 +16,20 @@ const CampaignTimer = () => {
                   <span style="--value:15;"></span>
                 </span>
                 Hours
-              </div> 
+              </div>
               <div class="flex flex-col">
                 <span class="countdown font-mono text-5xl">
                   <span style="--value:10;"></span>
                 </span>
                 Minutes
-              </div> 
+              </div>
               <div class="flex flex-col">
                 <span class="countdown font-mono text-5xl">
                   <span style="--value:24;"></span>
                 </span>
                 Seconds
-              </div> 
-            </div>  
+              </div>
+            </div>
           </div>
         </div>
       </div>
