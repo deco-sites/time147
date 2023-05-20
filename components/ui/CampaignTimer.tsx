@@ -1,7 +1,7 @@
 const CampaignTimer = () => {
   return (
     <div>
-      <div class="container mx-auto bg-error text-primary-content">
+      <div class="container mx-auto bg-error br-primary text-primary-content">
         <div class="grid grid-rows-2 grid-flow-col gap-4 justify-center content-center">
           <div>
             <p class="normal-case text-xl">

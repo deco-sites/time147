@@ -1,5 +1,5 @@
 export const theme = {
-  "primary": "hsl(180 100% 10%)",
+  "primary": "hsl(8, 69%, 65%)",
   "secondary": "hsl(0 39% 39%)",
   "accent": "hsl(150 100% 50%)",
   "neutral": "hsl(0 0% 20%)",
@@ -8,6 +8,7 @@ export const theme = {
   "warning": "hsl(43 100% 95%)",
   "error": "hsl(9 100% 95%)",
   "info": "hsl(220 100% 97%)",
+  "text-primary-content" : "hsl(0, 0%, 100%)",
 
   "--rounded-box": "1rem", // border radius rounded-box utility class, used in card and other large boxes
   "--rounded-btn": "0.5rem", // border radius rounded-btn utility class, used in buttons and similar element
