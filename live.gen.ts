@@ -27,10 +27,10 @@ import * as $$$$$$$$6 from "./sections/Footer.tsx";
 import * as $$$$$$$$7 from "./sections/Header.tsx";
 import * as $$$$$$$$8 from "./sections/Highlights.tsx";
 import * as $$$$$$$$9 from "./sections/LinkTree.tsx";
-import * as $$$$$$$$10 from "./sections/ProductDetails/ProductDetails.time147.tsx";
-import * as $$$$$$$$11 from "./sections/ProductDetails.tsx";
-import * as $$$$$$$$12 from "./sections/ProductShelf.tsx";
-import * as $$$$$$$$13 from "./sections/SearchResult.tsx";
+import * as $$$$$$$$10 from "./sections/ProductDetails.tsx";
+import * as $$$$$$$$11 from "./sections/ProductShelf.tsx";
+import * as $$$$$$$$12 from "./sections/SearchResult.tsx";
+import * as $$$$$$$$13 from "./sections/Timers/CampaignTimer.2devsdeco.tsx";
 import * as $$$$$$$$14 from "./sections/WhatsApp.tsx";
 import * as $$$$$$$$15 from "./sections/WishlistGallery.tsx";
 import * as $live_middleware from "$live/routes/_middleware.ts";
@@ -192,11 +192,11 @@ const manifest = {
     "deco-sites/time147/sections/Header.tsx": $$$$$$$$7,
     "deco-sites/time147/sections/Highlights.tsx": $$$$$$$$8,
     "deco-sites/time147/sections/LinkTree.tsx": $$$$$$$$9,
-    "deco-sites/time147/sections/ProductDetails.tsx": $$$$$$$$11,
-    "deco-sites/time147/sections/ProductDetails/ProductDetails.time147.tsx":
-      $$$$$$$$10,
-    "deco-sites/time147/sections/ProductShelf.tsx": $$$$$$$$12,
-    "deco-sites/time147/sections/SearchResult.tsx": $$$$$$$$13,
+    "deco-sites/time147/sections/ProductDetails.tsx": $$$$$$$$10,
+    "deco-sites/time147/sections/ProductShelf.tsx": $$$$$$$$11,
+    "deco-sites/time147/sections/SearchResult.tsx": $$$$$$$$12,
+    "deco-sites/time147/sections/Timers/CampaignTimer.2devsdeco.tsx":
+      $$$$$$$$13,
     "deco-sites/time147/sections/WhatsApp.tsx": $$$$$$$$14,
     "deco-sites/time147/sections/WishlistGallery.tsx": $$$$$$$$15,
   },

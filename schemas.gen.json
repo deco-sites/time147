@@ -103,6 +103,7 @@
               "deco-sites/time147/sections/ProductDetails.tsx",
               "deco-sites/time147/sections/ProductShelf.tsx",
               "deco-sites/time147/sections/SearchResult.tsx",
+              "deco-sites/time147/sections/Timers/CampaignTimer.2devsdeco.tsx",
               "deco-sites/time147/sections/WhatsApp.tsx",
               "deco-sites/time147/sections/WishlistGallery.tsx",
               "$live/matchers/MatchAlways.ts",
@@ -11282,6 +11283,22 @@
         }
       }
     },
+    "ZGVjby1zaXRlcy90aW1lMTQ3L3NlY3Rpb25zL1RpbWVycy9DYW1wYWlnblRpbWVyLjJkZXZzZGVjby50c3g=": {
+      "title": "deco-sites/time147/sections/Timers/CampaignTimer.2devsdeco.tsx",
+      "type": "object",
+      "required": [
+        "__resolveType"
+      ],
+      "properties": {
+        "__resolveType": {
+          "type": "string",
+          "enum": [
+            "deco-sites/time147/sections/Timers/CampaignTimer.2devsdeco.tsx"
+          ],
+          "default": "deco-sites/time147/sections/Timers/CampaignTimer.2devsdeco.tsx"
+        }
+      }
+    },
     "ZGVjby1zaXRlcy90aW1lMTQ3L3NlY3Rpb25zL1doYXRzQXBwLnRzeA==": {
       "title": "deco-sites/time147/sections/WhatsApp.tsx",
       "type": "object",
@@ -12306,6 +12323,9 @@
         },
         {
           "$ref": "#/definitions/ZGVjby1zaXRlcy90aW1lMTQ3L3NlY3Rpb25zL1NlYXJjaFJlc3VsdC50c3g="
+        },
+        {
+          "$ref": "#/definitions/ZGVjby1zaXRlcy90aW1lMTQ3L3NlY3Rpb25zL1RpbWVycy9DYW1wYWlnblRpbWVyLjJkZXZzZGVjby50c3g="
         },
         {
           "$ref": "#/definitions/ZGVjby1zaXRlcy90aW1lMTQ3L3NlY3Rpb25zL1doYXRzQXBwLnRzeA=="
